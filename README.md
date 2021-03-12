@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to my profile ### 👋
 
 <!--
 **gisellequarto/gisellequarto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<strong>#Frontend Technologies:</strong>
+**#Frontend Technologies:**
 <br/>
 <p align="left">
 <img src="https://github.com/gisellequarto/gisellequarto/blob/main/icons/html_icon.png" alt="html5" width="60" height="60"/>
