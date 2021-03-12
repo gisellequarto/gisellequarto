@@ -16,4 +16,13 @@ Here are some ideas to get you started:
 -->
 
 I know this:
-![alt text](https://github.com/gisellequarto/gisellequarto/blob/main/icons/css3-original-wordmark.svg)
+<p align="left">
+<img src="https://github.com/gisellequarto/gisellequarto/blob/main/icons/css3-original-wordmark.svg" alt="html5" width="60" height="60"/>
+<img src="" alt="css3" width="60" height="60"/>
+<img src="" alt="javascript" width="60" height="60"/>
+<img src="" alt="react" width="60" height="60"/>
+<img src="" alt="vue" width="60" height="60"/>
+<img src="" alt="angular" width="60" height="60"/>
+</p>
+
+
