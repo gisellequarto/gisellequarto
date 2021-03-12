@@ -1,7 +1,8 @@
-Hi there, welcome to my profile! 👋 👩‍💻
-I'm Giselle! Feel free to get to know me a little more...
+<p>Hi there, welcome to my profile! 👋 👩‍💻
+I'm Giselle! Feel free to get to know me a little more...</p>
 
 <img src="https://github.com/gisellequarto/gisellequarto/blob/main/Banner%20Giselle.png" alt="banner Giselle">
+
 <!--
 **gisellequarto/gisellequarto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 __Backend Technologies:__
 <br/>
 <p align="left">
