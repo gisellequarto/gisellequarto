@@ -1,4 +1,4 @@
-### Welcome to my profile :woman_technologist:
+Welcome to my profile :woman_technologist:
 
 <!--
 **gisellequarto/gisellequarto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
