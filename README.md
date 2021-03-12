@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I know this:
+<strong>#Frontend Technologies:</strong>
 <p align="left">
 <img src="https://github.com/gisellequarto/gisellequarto/blob/main/icons/html_icon.png" alt="html5" width="50" height="50"/>
 <img src="https://github.com/gisellequarto/gisellequarto/blob/main/icons/css_icon.png" alt="css3" width="50" height="50"/>
-<img src="" alt="javascript" width="60" height="60"/>
-<img src="" alt="react" width="60" height="60"/>
-<img src="" alt="vue" width="60" height="60"/>
-<img src="" alt="angular" width="60" height="60"/>
+<img src="https://github.com/gisellequarto/gisellequarto/blob/main/icons/javascript_icon.png" alt="javascript" width="60" height="60"/>
+<img src="https://github.com/gisellequarto/gisellequarto/blob/main/icons/react_icon.png" alt="react" width="60" height="60"/>
+<img src="https://github.com/gisellequarto/gisellequarto/blob/main/icons/vuejs_icon.png" alt="vue" width="60" height="60"/>
+<img src="https://github.com/gisellequarto/gisellequarto/blob/main/icons/angular_icon.png" alt="angular" width="60" height="60"/>
 </p>
 
 
