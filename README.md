@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 I know this:
 <p align="left">
-<img src="https://github.com/gisellequarto/gisellequarto/blob/main/icons/css3-original-wordmark.svg" alt="html5" width="50" height="50"/>
-<img src="" alt="css3" width="60" height="60"/>
+<img src="https://github.com/gisellequarto/gisellequarto/blob/main/icons/html_icon.png" alt="html5" width="50" height="50"/>
+<img src="https://github.com/gisellequarto/gisellequarto/blob/main/icons/css_icon.png" alt="css3" width="50" height="50"/>
 <img src="" alt="javascript" width="60" height="60"/>
 <img src="" alt="react" width="60" height="60"/>
 <img src="" alt="vue" width="60" height="60"/>
