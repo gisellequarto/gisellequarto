@@ -3,6 +3,8 @@ I'm Giselle! Feel free to get to know me a little more...</p>
 
 <img src="https://github.com/gisellequarto/gisellequarto/blob/main/Banner%20Giselle.png" alt="banner Giselle">
 
+_As a teacher, with the future of many children in my hands and working in an environment that is anything but boring or predictable like a school, I learned to use creativity to solve complex problem scenarios and that nothing can be achieved without teamwork. After an 8-month sabbatical in 19 countries in Asia and Europe, I decided to change careers and study on my own. Making the Bootcamp was a huge step on this path, which continues to be followed, with study, commitment and willingness to overcome any future challenge._
+
 <!--
 **gisellequarto/gisellequarto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
