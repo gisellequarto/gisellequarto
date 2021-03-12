@@ -1,6 +1,9 @@
-<p align="center">
-  <h1 align="center">  Hi there, welcome to my profile! 👩‍💻</h1>
-</p>
+<p>Hi there, welcome to my profile! 👋 👩‍💻
+I'm Giselle! Feel free to get to know me a little more...</p>
+
+<img src="https://github.com/gisellequarto/gisellequarto/blob/main/Banner%20Giselle.png" alt="banner Giselle">
+
+<p>As a teacher, with the future of many children in my hands and working in an environment that is anything but boring or predictable like a school, I learned to use creativity to solve complex problem scenarios and that nothing can be achieved without teamwork. After an 8-month sabbatical in 19 countries in Asia and Europe, I decided to change careers and study on my own. Making the Bootcamp was a huge step on this path, which continues to be followed, with study, commitment and willingness to overcome any future challenge.</p>
 
 <!--
 **gisellequarto/gisellequarto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 __Backend Technologies:__
 <br/>
 <p align="left">
