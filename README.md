@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**#Frontend Technologies:**
+
+__#Frontend Technologies:__
 <br/>
 <p align="left">
 <img src="https://github.com/gisellequarto/gisellequarto/blob/main/icons/html_icon.png" alt="html5" width="60" height="60"/>
