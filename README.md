@@ -1,10 +1,7 @@
-<p align="center">
-  <h3 align="left">  Hi there, welcome to my profile! 👋 👩‍💻</h3>
-  <h3 align="left">  I'm Giselle! </h3>
-</p>
+Hi there, welcome to my profile! 👋 👩‍💻
+I'm Giselle! Feel free to get to know me a little more...
 
 <img src="https://github.com/gisellequarto/gisellequarto/blob/main/Banner%20Giselle.png" alt="banner Giselle">
-
 <!--
 **gisellequarto/gisellequarto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
