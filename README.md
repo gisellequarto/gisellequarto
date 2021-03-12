@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I know this:
+![alt text](https://github.com/gisellequarto/gisellequarto/blob/main/icons/css3-original-wordmark.svg)
