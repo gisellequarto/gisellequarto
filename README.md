@@ -44,7 +44,8 @@ __Frontend Technologies:__
 __Databases:__
 <br/>
 <p align="left">
-<img src="https://github.com/gisellequarto/gisellequarto/blob/main/icons/mysql_icon.png" alt="java" width="60" height="60"/>
-<img src="https://github.com/gisellequarto/gisellequarto/blob/main/icons/mongodb_icon.png" alt="nodejs" width="60" height="60"/>
+<img src="https://github.com/gisellequarto/gisellequarto/blob/main/icons/mysql_icon.png" alt="mysql" width="60" height="60"/>
+<img src="https://github.com/gisellequarto/gisellequarto/blob/main/icons/mongodb_icon.png" alt="mongodb" width="60" height="60"/>
+<img src="https://github.com/gisellequarto/gisellequarto/blob/main/icons/postgre_icon.png" alt="postgresql" width="60" height="60"/>
 </p>
 
