@@ -52,4 +52,4 @@ __Databases:__
 __Data Visualization:__
 <br/>
 <p align="left">
-<img src="https://github.com/gisellequarto/gisellequarto/blob/main/PowerBI/COVID-Vaccines-vs2-Power-BI-Google-Chrome-2021-05-17-15-45-00.gif" alt="power bi" width="1000" height="400"/>
+<img src="https://github.com/gisellequarto/gisellequarto/blob/main/PowerBI/COVID-Vaccines-vs2-Power-BI-Google-Chrome-2021-05-17-15-45-00.gif" alt="power bi" width="1000" height="500"/>
