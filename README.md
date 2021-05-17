@@ -49,3 +49,5 @@ __Databases:__
 <img src="https://github.com/gisellequarto/gisellequarto/blob/main/icons/postgre_icon.png" alt="postgresql" width="60" height="60"/>
 </p>
 
+__Data Visualization:__
+<img src="https://github.com/gisellequarto/gisellequarto/blob/main/PowerBI/COVID-Vaccines-vs2-Power-BI-Google-Chrome-2021-05-17-15-45-00.gif" alt="power bi" width="200" height="160"/>
